@@ -15,7 +15,7 @@ Resposta de 0 a 10
 
 Todas possuem detalhes adicionais opcional.
 
- - Qual a chance de você recomendar o Sicoob como um lugar para trabalhar?
+ - Qual a chance de você recomendar a Organização como um lugar para trabalhar?
 
  - Sou recompensado de forma justa pelas minhas atribuições?
 
