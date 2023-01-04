@@ -19,7 +19,7 @@ Todas possuem detalhes adicionais opcional.
 
  - Sou recompensado de forma justa pelas minhas atribuições?
 
- - No trabalho, parecem ser levadas em consideração?
+ - No trabalho, minhas opiniões parecem ser levadas em consideração?
 
  - Se eu fizer um bom trabalho, sei que ele será reconhecido?
 
